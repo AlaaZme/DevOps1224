@@ -1,4 +1,4 @@
-print("hello world , in JAVA")
+print("hello world , in Python")
 str = "Hello hello"
 name1 = "alaa"
 name2 = "daoud"
