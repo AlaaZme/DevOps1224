@@ -1,4 +1,4 @@
-print("hello world , in python")
+print("hello world , in C++")
 str = "Hello hello"
 name1 = "alaa"
 name2 = "daoud"
