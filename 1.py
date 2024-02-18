@@ -1,12 +1,14 @@
-print("hello world")
+print("hello world , in python")
+str = "Hello hello"
 name1 = "alaa"
 name2 = "daoud"
-isMarried = False
+
 name3 = None
 Hob = ["tv", "pc"]
 print(name1 + " " + name2)
 print(Hob)
 my_name = ['alaa', "daoud"]
 my_tuple = ('alaa', 'daoud')
-my_name[1] = 'alaa1'
+
+print(str)
 #my_tuple[1] ='alaa1'
