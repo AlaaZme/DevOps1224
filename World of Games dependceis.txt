@@ -1,0 +1,22 @@
+py Libs:
+
+import os   -> clear screen
+from time import sleep   -> for timer to clear screen
+import random  -> generate random numbers
+
+---pip install currencyconverter
+from currency_converter import CurrencyConverter -> get currecny exchange
+
+
+
+internal libs:
+import game_dep -> internal program (get int(make sure legal) and difficulty)
+import MemoryGame
+import GuessGame
+import CurrencyRouletteGame
+
+
+
+MainGame.py -> to Run games
+
+
