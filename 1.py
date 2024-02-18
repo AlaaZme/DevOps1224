@@ -1,4 +1,4 @@
-print("hello world , in C++")
+print("hello world , in JAVA")
 str = "Hello hello"
 name1 = "alaa"
 name2 = "daoud"
